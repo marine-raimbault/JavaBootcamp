@@ -1,7 +1,7 @@
 ## Getting Started
 Welcome here ! 
 
-This is the code for my video: ;
+This is the code for my video: [Java Bootcamp in 12 Minutes](https://youtu.be/xIPODmdMp-8);
 
 It contains my summary of a 2 week intensive java bootcamp (MATSE Java Blockkurs) 
 
