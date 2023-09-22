@@ -1,13 +1,13 @@
 ## Getting Started
-Welcome here ! 
+Welcome here! 😊
 
-This is the code for my video: [Java Bootcamp in 12 Minutes](https://youtu.be/xIPODmdMp-8);
+This is the code for my video: [Java Bootcamp Express 🚀: Learn Java in 12 Minutes!](https://youtu.be/xIPODmdMp-8);
 
-It contains my summary of a 2 week intensive java bootcamp (MATSE Java Blockkurs) 
+It contains my summary of a 2-week intensive Java bootcamp (MATSE Java Blockkurs) 🚀📚
 
-Many of the functions are currently commented out. In most IDEs, you can quickly uncomment multiple lines of code by using the keyboard shortcut Ctrl + Shift + forward slash (/).
+*Many of the functions are currently commented out. In most IDEs, you can quickly uncomment multiple lines of code by using the keyboard shortcut Ctrl + Shift + forward slash (/). 🧑‍💻*
 
-Enjoy !
+Enjoy! 🎉👍
 
 # Index: 
 - 0- Hello World
